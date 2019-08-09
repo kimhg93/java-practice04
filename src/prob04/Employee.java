@@ -1,5 +1,5 @@
 package prob04;
-
+// 상속해서 depart라는 클래스 만듬
 public class Employee {
 	private String name;
 	private int salary;
